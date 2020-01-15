@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+#address {
+  text-align: left;
+}
+
+#body {
+  text-align: left;
+}
+
+#goodbye {
+  text-align: right;
+}
+
+#letter {
+  display: none;
+}
